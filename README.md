@@ -1,10 +1,10 @@
-# 🚀 Contact Agenda REST API
+# Contact Agenda REST API
 
 A simple RESTful API for managing personal contacts, built with **Spring Boot 3.x**, **Java 21 (LTS)**, **PostgreSQL**, and documented with **SpringDoc OpenAPI (Swagger)**. This project follows **Domain-Driven Design (DDD)** principles, **Clean Code** practices, and the **DRY (Don't Repeat Yourself)** principle.
 
 ---
 
-## ✨ Features
+## Features
 
 * **CRUD Operations:** Create, Read, Update, Delete contacts.
 * **Data Validation:** Robust input validation for contact details (name, phone, email).
@@ -16,7 +16,7 @@ A simple RESTful API for managing personal contacts, built with **Spring Boot 3.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Java 21 (LTS):** The core programming language.
 * **Spring Boot 3.3.1+:** Framework for building the REST API.
@@ -29,7 +29,7 @@ A simple RESTful API for managing personal contacts, built with **Spring Boot 3.
 
 ---
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 
@@ -90,7 +90,7 @@ A simple RESTful API for managing personal contacts, built with **Spring Boot 3.
 
 ---
 
-## 📖 API Documentation (Swagger UI)
+## API Documentation (Swagger UI)
 
 Once the application is running, you can access the interactive API documentation and test endpoints through Swagger UI:
 
@@ -98,7 +98,7 @@ Once the application is running, you can access the interactive API documentatio
 
 ---
 
-## 💡 API Endpoints
+## API Endpoints
 
 All endpoints are prefixed with `/api/v1/contacts`.
 
