@@ -14,4 +14,5 @@ public interface ContactRepository {
     boolean existsByEmail(String email);
     boolean existsByPhone(String phone);
     Optional<Contact> findByEmail(String email);
+    Optional<Contact> findByPhone(String phone);
 }
