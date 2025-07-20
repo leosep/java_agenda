@@ -1,6 +1,3 @@
-# java_agenda
-Simple contact book REST API using Java, Spring Boot, PostgreSQL and Swagger, applying DDD, Clean Code and principles such as DRY.
-
 # 🚀 Contact Agenda REST API
 
 A simple RESTful API for managing personal contacts, built with **Spring Boot 3.x**, **Java 21 (LTS)**, **PostgreSQL**, and documented with **SpringDoc OpenAPI (Swagger)**. This project follows **Domain-Driven Design (DDD)** principles, **Clean Code** practices, and the **DRY (Don't Repeat Yourself)** principle.
